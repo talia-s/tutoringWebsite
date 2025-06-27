@@ -1499,15 +1499,22 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		/* .image.featured {
+		display: block;
+		margin: 0 auto;
+		} */
+
 		.image.fit {
 			display: block;
 			width: 100%;
 		}
 
+		/* Talia edited the following block to change the block around the images. width 100->64.45 and margin to center  */
+
 		.image.featured {
 			display: block;
-			width: 100%;
-			margin: 0 0 3.5em 0;
+			width: 64.45%;
+			margin: 0 auto 3.5em auto;
 		}
 
 		.image.left {
