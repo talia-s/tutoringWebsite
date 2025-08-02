@@ -209,6 +209,21 @@ input, select, textarea {
 		clear: both;
 }
 
+/* Indented List */
+
+.indented-list {
+    margin-left: 2em;
+    list-style-type: disc;
+    margin-bottom: 0.025em;
+	margin-top: 0.025em;
+    text-align: left;
+}
+
+.indented-list li {
+    margin-top: 0.05em;    /* Adjust as needed */
+    margin-bottom: 0.05em; /* Adjust as needed */
+}
+
 /* Container */
 
 	.container {
